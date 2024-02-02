@@ -1,0 +1,4 @@
+{
+    "explorer.excludeGitIgnore": true,
+    "git.autofetch": true
+}
